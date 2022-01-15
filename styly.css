@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body > div {
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    font-size: 1.5em;
+    padding: 15px;
+}
+
+#dnesniDatum {
+    margin: 10px 0px 20px;
+}
+
+#vyletNazev {
+    font-size: 2em;
+    color: #4acef7;
+    margin: 30px 0px 10px;
+}
+#vyletDatum {
+    font-size: 1.5em;
+    color: #f76868;
+}
+#ikonky {
+    display: none;
+}
